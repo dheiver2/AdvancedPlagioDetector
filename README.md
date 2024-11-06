@@ -177,6 +177,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 📧 Contato
 
-Dr DHeiver Francisco Santos - [@dheiver](https://twitter.com/dheiver) - dheiver.santos@gmail.com
-
-Link do Projeto: [https://github.com/seu-usuario/enhanced-plagio-detector](https://github.com/seu-usuario/enhanced-plagio-detector)
+Dr Dheiver Francisco Santos - [@dheiver](https://twitter.com/dheiver) - dheiver.santos@gmail.com
